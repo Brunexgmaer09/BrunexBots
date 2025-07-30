@@ -8,7 +8,7 @@ Um sistema de bots para o jogo Slither.io, O projeto consiste em um servidor bac
 
 ## 📸 Screenshot
 
-![BrunexBots]<img width="1920" height="1080" alt="BrunexBots" src="https://github.com/user-attachments/assets/8eff0c0c-9cd9-47ce-82d2-bda062b9f5b3" />
+<img width="1920" height="1080" alt="BrunexBots" src="https://github.com/user-attachments/assets/8eff0c0c-9cd9-47ce-82d2-bda062b9f5b3" />
 
 
 ---
