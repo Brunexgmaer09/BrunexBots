@@ -1,14 +1,15 @@
-# BrunEX Bots - Bot Educacional para Slither.io
+# BrunexBots
 
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Versão](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ![Node.js](https://img.shields.io/badge/node.js-%3E%3D14.x-yellow.svg)
 
-Um sistema de bots para o jogo Slither.io, desenvolvido para fins educacionais e de estudo. O projeto consiste em um servidor backend em Node.js que gerencia os bots e uma extensão para navegador (Chrome) que injeta uma interface de controle no jogo e captura as informações necessárias para o funcionamento dos bots.
+Um sistema de bots para o jogo Slither.io, O projeto consiste em um servidor backend em Node.js que gerencia os bots e uma extensão para navegador (Chrome) que injeta uma interface de controle no jogo e captura as informações necessárias para o funcionamento dos bots.
 
 ## 📸 Screenshot
 
-![BrunexBots](https://raw.githubusercontent.com/Brunexgmaer09/BrunexBots/main/BrunexBots.png)
+<img width="1920" height="1080" alt="BrunexBots" src="https://github.com/user-attachments/assets/8eff0c0c-9cd9-47ce-82d2-bda062b9f5b3" />
+
 
 ---
 
